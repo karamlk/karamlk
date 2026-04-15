@@ -11,7 +11,7 @@ I'm a backend-focused developer specializing in **Laravel** and modern API archi
 I design and build production-ready systems with an emphasis on:
 
 - Clean, maintainable code (Service Layer, SOLID)
-- Automated testing (PHPUnit – 95% coverage)
+- Automated testing (PHPUnit – 85% coverage)
 - Scalable backend systems (queues, CI/CD, Docker)
 
 I’ve built multiple systems across **healthcare, e-commerce, and travel domains**.
@@ -43,7 +43,7 @@ I’ve built multiple systems across **healthcare, e-commerce, and travel domain
 
 ### 🏥 Pharmacy Management System
 - REST API with **Service Layer architecture**
-- 80+ PHPUnit tests (**95% coverage**)
+- 80+ PHPUnit tests (**85% coverage**)
 - Features: inventory, suppliers, invoices, salary system
 - CI/CD with GitHub Actions + Docker deployment
 
