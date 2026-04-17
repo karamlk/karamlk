@@ -60,12 +60,12 @@ I’ve built multiple systems across **healthcare, e-commerce, and travel domain
 
 ---
 
-### 🛒 Delivery App Backend
+### 🛒 Ecommerce Backend
 - E-commerce REST API with **Redis queues + Laravel Horizon**
 - OTP authentication, cart, orders, notifications
 - Background job processing for scalability
 
-👉 https://github.com/karamlk/delivery-app-backend
+👉 https://github.com/karamlk/ecommerce-backend-api
 
 ---
 
