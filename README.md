@@ -29,7 +29,7 @@ I've built multiple systems across **healthcare, e-commerce, and travel domains*
 **Backend**
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" height="42" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" height="46" />
 </div>
 
 <br/>
@@ -37,7 +37,7 @@ I've built multiple systems across **healthcare, e-commerce, and travel domains*
 **Architecture & DevOps**
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=redis,docker,githubactions" height="42" />
+  <img src="https://skillicons.dev/icons?i=redis,docker,githubactions" height="46" />
 </div>
 
 <br/>
@@ -45,7 +45,7 @@ I've built multiple systems across **healthcare, e-commerce, and travel domains*
 **Frontend**
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css" height="42" />
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css" height="46" />
 </div>
 
 ---
