@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Karam%20Alrifai&fontSize=42&fontColor=FFFFFF&fontAlign=50&fontAlignY=30&desc=Backend%20Software%20Engineer%20(Laravel)&descSize=18&descAlign=50&descAlignY=55&theme=tokyonight" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Karam%20Alrifai&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=30&desc=Backend%20Software%20Engineer(Laravel)&descSize=18&descAlign=50&descAlignY=55&color=0:0f172a,100:111827" width="100%"/>
 </div>
 
 
@@ -71,5 +71,6 @@ I've built multiple systems across **healthcare, e-commerce, and travel domains*
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,100:0f172a" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f172a,100:111827" width="100%"/>
+</div>
 </div>
