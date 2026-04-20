@@ -1,95 +1,75 @@
-# Hi there, I'm Karam Alrifai 👋
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Karam%20Alrifai&fontSize=42&fontColor=FFFFFF&fontAlign=50&fontAlignY=30&desc=Backend%20Software%20Engineer%20(Laravel)&descSize=18&descAlign=50&descAlignY=55&theme=tokyonight" width="100%"/>
+</div>
 
-**Backend Engineer (Laravel)** | Building scalable REST APIs  
-Focused on clean architecture, testing, and real-world systems
-
----
 
 ## 🚀 About Me
 
 I'm a backend-focused developer specializing in **Laravel** and modern API architecture.  
-I design and build production-ready systems with an emphasis on:
+I design backend systems with a focus on scalability, maintainability, and production constraints.
 
-- Clean, maintainable code (Service Layer, SOLID)
-- Automated testing (PHPUnit – 85% coverage)
-- Scalable backend systems (queues, CI/CD, Docker)
+- 🧹 Clean, maintainable code (Service Layer, SOLID)
+- 🧪 Automated testing (PHPUnit – 85% coverage)
+- ⚙️ Scalable backend systems (queues, CI/CD, Docker)
 
-I’ve built multiple systems across **healthcare, e-commerce, and travel domains**.
+I've built multiple systems across **healthcare, e-commerce, and travel domains**.
+
+---
+
+## ⚡ Current Focus
+
+- 🏗️ Transitioning from Service Layer → Domain-Driven Design (DDD)  
+- ⚡ Building scalable Laravel systems with async processing (queues, Redis)  
+- 🎯 Designing systems aligned with real-world business constraints  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+**Backend**
 
-### Architecture & Tools
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" height="42" />
+</div>
 
+<br/>
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+**Architecture & DevOps**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=redis,docker,githubactions" height="42" />
+</div>
+
+<br/>
+
+**Frontend**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css" height="42" />
+</div>
+
 ---
 
 ## 📌 Featured Projects
 
-### 🏥 Pharmacy Management System
-- REST API with **Service Layer architecture**
-- 80+ PHPUnit tests (**85% coverage**)
-- Features: inventory, suppliers, invoices, salary system
-- CI/CD with GitHub Actions + Docker deployment
-
-👉 https://github.com/karamlk/pharmacy-management-backend
-
----
-
-### ✈️ Travel Agency System (Full Stack)
-- Laravel API + React Admin Dashboard
-- Booking workflows, refunds, analytics
-- UUID-based architecture for scalability
-
-👉 https://github.com/karamlk/travel-agency
-
----
-
-### 🛒 Ecommerce Backend
-- E-commerce REST API with **Redis queues + Laravel Horizon**
-- OTP authentication, cart, orders, notifications
-- Background job processing for scalability
-
-👉 https://github.com/karamlk/ecommerce-backend-api
+| Project | Stack & Architecture | Key Highlights | Link |
+|--------|---------------------|---------------|------|
+| 🏥 **Pharmacy Management System** | Laravel · Service Layer · MySQL · Docker | 85% test coverage · Inventory & suppliers · CI/CD pipeline | [<img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" />](https://github.com/karamlk/pharmacy-management-backend) |
+| ✈️ **Travel Agency System** | Laravel API · React Dashboard | Booking & refunds · Analytics · Scalable UUID design | [<img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" />](https://github.com/karamlk/travel-agency) |
+| 🛒 **Ecommerce Backend** | Laravel · Redis · Queues | OTP auth · Orders & cart · Background jobs (Horizon) | [<img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" />](https://github.com/karamlk/ecommerce-backend-api) |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Karam's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=karamlk&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karamlk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karamlk&theme=tokyonight&hide_border=true&layout=compact" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karamlk&theme=tokyonight&hide_border=true" height="160"/>
+</div>
 
+<br/>
 
-## ⚡ What I'm Focused On
-
-- Advancing backend architecture (Service Layer → Domain-driven design)
-- Building systems that solve real business problems
-
-<!--
-**karamlk/karamlk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,100:0f172a" width="100%"/>
+</div>
