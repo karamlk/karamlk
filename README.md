@@ -1,6 +1,17 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Karam%20Alrifai&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=30&desc=Backend%20Software%20Engineer%20(Laravel)&descSize=18&descAlign=50&descAlignY=55&color=0:0f172a,100:111827" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Karam%20Alrifai&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=30&desc=Backend%20Software%20Engineer%20(Laravel)&descSize=18
+&descAlign=50&descAlignY=55&color=0:0d1117,100:3B82F6" width="100%"/>
+
 </div>
+
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer+(Laravel);Building+Production-Ready+Systems;Service+Layer+%7C+Testing+%7C+Scalability+Focus)](https://git.io/typing-svg)
+
+</div>
+
 
 
 ## 🚀 About Me
@@ -30,6 +41,8 @@ I've built multiple systems across **healthcare, e-commerce, and travel domains*
 <div align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql" height="46" />
 </div>
+
+
 
 **Architecture & DevOps**
 <div align="left">
@@ -61,17 +74,41 @@ I've built multiple systems across **healthcare, e-commerce, and travel domains*
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karamlk&show_icons=true&theme=react&hide_border=true&rank_icon=github" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karamlk&theme=react&hide_border=true&layout=compact" height="160" />
+
+<div>
+<a href="https://github.com/karamlk">
+ <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karamlk&hide=html,css,blade&theme=github_dark" /> </a>
+
+<a href="https://github.com/karamlk">
+   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karamlk&theme=github_dark" /> </a>
+</div>
+
+  <div>
+<a href="https://github.com/karamlk">
+      <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karamlk&theme=github_dark" />
+</a>
+
+<a href="https://github.com/karamlk">
+      <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karamlk&theme=github_dark&utcOffset=3" />
+</a>
+  </div>
+
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karamlk&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=3B82F6&ring=3B82F6&fire=FF6B35&currStreakLabel=3B82F6" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karamlk&hide=html,css&theme=react" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karamlk&hide=html,css,blade&theme=github_dark" />
 </div>
 
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karamlk&theme=github-compact&hide_border=true&bg_color=0d1117&color=3B82F6&line=3B82F6&point=FF6B35&area=true&area_color=3B82F6" />
+</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f172a,100:111827" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:3B82F6,100:0d1117" width="100%"/>
 </div>
 
