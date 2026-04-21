@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Karam%20Alrifai&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=30&desc=Backend%20Software%20Engineer(Laravel)&descSize=18&descAlign=50&descAlignY=55&color=0:0f172a,100:111827" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Karam%20Alrifai&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=30&desc=Backend%20Software%20Engineer%20(Laravel)&descSize=18&descAlign=50&descAlignY=55&color=0:0f172a,100:111827" width="100%"/>
 </div>
 
 
@@ -37,8 +37,16 @@ I've built multiple systems across **healthcare, e-commerce, and travel domains*
 **Architecture & DevOps**
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=redis,docker,githubactions" height="46" />
+  <img src="https://skillicons.dev/icons?i=redis,docker,linux,githubactions" height="46" />
 </div>
+
+<br/>
+
+**Development Tools**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,postman" height="46" />
+</div>
+
 
 <br/>
 
@@ -65,7 +73,6 @@ I've built multiple systems across **healthcare, e-commerce, and travel domains*
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karamlk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karamlk&theme=tokyonight&hide_border=true&layout=compact" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karamlk&theme=tokyonight&hide_border=true" height="160"/>
 </div>
 
 <br/>
