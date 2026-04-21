@@ -61,15 +61,15 @@ I've built multiple systems across **healthcare, e-commerce, and travel domains*
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karamlk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karamlk&theme=tokyonight&hide_border=true&layout=compact" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karamlk&show_icons=true&theme=react&hide_border=true&rank_icon=github" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karamlk&theme=react&hide_border=true&layout=compact" height="160" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karamlk&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karamlk&hide=html,css&theme=react" />
 </div>
 
-<br/>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f172a,100:111827" width="100%"/>
