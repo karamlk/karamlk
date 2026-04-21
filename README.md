@@ -27,31 +27,21 @@ I've built multiple systems across **healthcare, e-commerce, and travel domains*
 ## 🛠️ Tech Stack
 
 **Backend**
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql" height="46" />
 </div>
 
-<br/>
-
 **Architecture & DevOps**
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=redis,docker,linux,githubactions" height="46" />
 </div>
-
-<br/>
 
 **Development Tools**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git,postman" height="46" />
 </div>
 
-
-<br/>
-
 **Frontend**
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css" height="46" />
 </div>
@@ -75,9 +65,13 @@ I've built multiple systems across **healthcare, e-commerce, and travel domains*
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karamlk&theme=tokyonight&hide_border=true&layout=compact" height="160" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karamlk&theme=tokyonight" />
+</div>
+
 <br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f172a,100:111827" width="100%"/>
 </div>
-</div>
+
