@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Karam%20Alrifai&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=30&desc=Backend%20Software%20Engineer%20(Laravel)&descSize=18
-&descAlign=50&descAlignY=55&color=0:0d1117,100:3B82F6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Karam%20Alrifai&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=30&desc=Backend%20Software%20Engineer%20(Laravel)&descSize=18&descAlign=50&descAlignY=55&color=0:0d1117,100:3B82F6" width="100%"/>
 
 </div>
 
