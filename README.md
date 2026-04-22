@@ -64,9 +64,9 @@ I've built multiple systems across **healthcare, e-commerce, and travel domains*
 
 | Project | Stack & Architecture | Key Highlights | Link |
 |--------|---------------------|---------------|------|
-| 🏥 **Pharmacy Management System** | Laravel · Service Layer · MySQL · Docker | 85% test coverage · Inventory & suppliers · CI/CD pipeline | [<img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" />](https://github.com/karamlk/pharmacy-management-backend) |
-| ✈️ **Travel Agency System** | Laravel API · React Dashboard | Booking & refunds · Analytics · Scalable UUID design | [<img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" />](https://github.com/karamlk/travel-agency) |
-| 🛒 **Ecommerce Backend** | Laravel · Redis · Queues | OTP auth · Orders & cart · Background jobs (Horizon) | [<img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" />](https://github.com/karamlk/ecommerce-backend-api) |
+| 🏥 **Pharmacy Management System** | Laravel · Service Layer · MySQL · Docker | 85% test coverage · Inventory & suppliers · CI/CD pipeline | [<img src="https://img.shields.io/badge/Live_API-3B82F6?style=for-the-badge" />](https://pharmacy-management-x6ta.onrender.com) <br/> [<img src="https://img.shields.io/badge/Postman_Docs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />](https://github.com/karamlk/pharmacy-management-backend/tree/main/postman) <br/>[<img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" />](https://github.com/karamlk/pharmacy-management-backend)|
+| ✈️ **Travel Agency System** | Laravel API · React Dashboard | Booking & refunds · Analytics · Scalable UUID design | [<img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" />](https://github.com/karamlk/travel-agency) <br/> [<img src="https://img.shields.io/badge/Postman_Docs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />](https://github.com/karamlk/travel-agency/tree/main/backend/postman) |
+| 🛒 **Ecommerce Backend** | Laravel · Redis · Queues | OTP auth · Orders & cart · Background jobs (Horizon) | [<img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" />](https://github.com/karamlk/ecommerce-backend-api) <br/> [<img src="https://img.shields.io/badge/Postman_Docs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />](https://github.com/karamlk/ecommerce-backend-api/tree/main/postman) |
 
 ---
 
