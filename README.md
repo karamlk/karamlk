@@ -16,13 +16,15 @@
 ## 🚀 About Me
 
 I'm a backend-focused developer specializing in **Laravel** and modern API architecture.  
-I design backend systems with a focus on scalability, maintainability, and production constraints.
+I design backend systems with a focus on scalability, data integrity, and production constraints.
 
+- 🔒 Concurrency & data integrity (row locking, distributed locks, transactional guarantees)
 - 🧹 Clean, maintainable code (Service Layer, SOLID)
-- 🧪 Automated testing (PHPUnit – 85% coverage)
+- 🧪 Automated testing (PHPUnit — up to 85% coverage)
 - ⚙️ Scalable backend systems (queues, CI/CD, Docker)
 
-I've built multiple systems across **healthcare, e-commerce, and travel domains**.
+I've built multiple production-style systems across **construction, healthcare, e-commerce, and travel domains**.
+
 
 ---
 
@@ -64,11 +66,13 @@ I've built multiple systems across **healthcare, e-commerce, and travel domains*
 
 | Project | Stack & Architecture | Key Highlights | Link |
 |--------|---------------------|---------------|------|
+| 🏗️ **Renova**  | Laravel · MySQL · Redis · Sanctum | 50+ endpoints · Multi-role platform · Pessimistic locking for wallet integrity · 170-test PHPUnit suite | [<img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" />](https://github.com/karamlk/renova)
+| 🛒 **Ecommerce Backend** | Laravel · Redis · Horizon · k6 | 98.5% latency reduction · 96% fewer DB queries · 100 concurrent users validated | [<img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" />](https://github.com/karamlk/ecommerce-backend-api) <br/> [<img src="https://img.shields.io/badge/Postman_Docs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />](https://github.com/karamlk/ecommerce-backend-api/tree/main/postman) |
 | 🏥 **Pharmacy Management System** | Laravel · Service Layer · MySQL · Docker | 85% test coverage · Inventory & suppliers · CI/CD pipeline | [<img src="https://img.shields.io/badge/Live_API-3B82F6?style=for-the-badge" />](https://pharmacy-management-x6ta.onrender.com) <br/> [<img src="https://img.shields.io/badge/Postman_Docs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />](https://github.com/karamlk/pharmacy-management-backend/tree/main/postman) <br/>[<img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" />](https://github.com/karamlk/pharmacy-management-backend)|
 | ✈️ **Travel Agency System** | Laravel API · React Dashboard | Booking & refunds · Analytics · Scalable UUID design | [<img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" />](https://github.com/karamlk/travel-agency) <br/> [<img src="https://img.shields.io/badge/Postman_Docs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />](https://github.com/karamlk/travel-agency/tree/main/backend/postman) |
-| 🛒 **Ecommerce Backend** | Laravel · Redis · Queues | OTP auth · Orders & cart · Background jobs (Horizon) | [<img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" />](https://github.com/karamlk/ecommerce-backend-api) <br/> [<img src="https://img.shields.io/badge/Postman_Docs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />](https://github.com/karamlk/ecommerce-backend-api/tree/main/postman) |
 
 ---
+
 
 ## 📊 GitHub Stats
 
@@ -105,6 +109,16 @@ I've built multiple systems across **healthcare, e-commerce, and travel domains*
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=karamlk&theme=github-compact&hide_border=true&bg_color=0d1117&color=3B82F6&line=3B82F6&point=FF6B35&area=true&area_color=3B82F6" />
+</div>
+
+<div align="center">
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karam-alrifai/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karam.alrifai24@gmail.com)
+
 </div>
 
 <div align="center">
